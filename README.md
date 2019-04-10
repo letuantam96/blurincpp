@@ -9,7 +9,7 @@ C:/predict.png:
 D:/output.png:  
 ![Alt text](https://i.imgur.com/ok4zmAg.png?raw=true "Output.png")  
 ## To run this project:
-### 1. Make sure you'e installed OpenCV on your computer:  
+1. Make sure you'e installed OpenCV on your computer:  
 https://www.deciphertechnic.com/install-opencv-with-visual-studio/  
-### 2. Put your input.png, predict.png to C:/ 
-### 3. The Output.png will be save at D:/output.png
+2. Put your input.png, predict.png to C:/ 
+3. The Output.png will be save at D:/output.png
