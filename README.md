@@ -8,7 +8,7 @@ Predict.png:
 ![Alt text](https://i.imgur.com/CADTGGY.png?raw=true "Predict.png")  
 Output.png:  
 ![Alt text](https://i.imgur.com/ok4zmAg.png?raw=true "Output.png")  
-## Note:
+## To run this project:
 ### 1. Make sure you'e installed OpenCV on your computer:  
 https://www.deciphertechnic.com/install-opencv-with-visual-studio/  
 ### 2. Put your Input.png, Predict.png to C:/ drive  
