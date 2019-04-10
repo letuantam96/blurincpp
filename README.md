@@ -11,5 +11,5 @@ Output.png:
 ## To run this project:
 ### 1. Make sure you'e installed OpenCV on your computer:  
 https://www.deciphertechnic.com/install-opencv-with-visual-studio/  
-### 2. Put your Input.png, Predict.png to C:/ drive  
+### 2. Put your Input.png, Predict.png to C:/ 
 ### 3. The Output.png will be save at D:/Output.png
